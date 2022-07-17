@@ -1,4 +1,4 @@
-package com.example.deciderapp;
+package com.example.deciderapp.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

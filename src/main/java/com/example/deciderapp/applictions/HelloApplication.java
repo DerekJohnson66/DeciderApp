@@ -1,4 +1,4 @@
-package com.example.deciderapp;
+package com.example.deciderapp.applictions;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -18,6 +18,8 @@ public class HelloApplication extends Application {
     }
 
     public static void main(String[] args) {
-        launch();
+        launch(args);
     }
+
+
 }
